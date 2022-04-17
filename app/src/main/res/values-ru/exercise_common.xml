@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="red">Красный</string>
+    <string name="green">Зеленый</string>
+
+    <string name="is_square">Фигура квадрат?</string>
+    <string name="is_blue">Цвет синий?</string>
+
+    <string name="is_even_number">Число четное?</string>
+    <string name="is_letter_vowel">Буква гласная?</string>
+
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+</resources>

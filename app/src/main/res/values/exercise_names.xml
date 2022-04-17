@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_extra_number">Superfluous number</string>
+    <string name="name_extra_word">Superfluous word</string>
+    <string name="name_face_control">Face control</string>
+    <string name="name_complex_sort">Complex sorting</string>
+    <string name="name_stroop">Stroop effect</string>
+    <string name="name_geo_switching">Geometric switching</string>
+    <string name="name_numbers_and_letters">Letters and numbers</string>
+    <string name="name_airport">Airport</string>
+    <string name="name_rotation">Upheaval</string>
+</resources>

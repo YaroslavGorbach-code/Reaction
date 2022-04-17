@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="letters">
+        <item>A</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Ё</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>И</item>
+        <item>Й</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
+        <item>О</item>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Э</item>
+        <item>Ю</item>
+        <item>Я</item>
+    </string-array>
+
+    <string-array name="letters_vowels">
+        <item>A</item>
+        <item>О</item>
+        <item>У</item>
+        <item>Ы</item>
+        <item>Э</item>
+        <item>Я</item>
+        <item>Ю</item>
+        <item>Ё</item>
+        <item>И</item>
+        <item>Е</item>
+    </string-array>
+</resources>

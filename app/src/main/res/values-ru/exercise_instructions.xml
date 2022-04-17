@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="instruction_sort_item_not_similar">Найдите полностью не похожую картинку</string>
+    <string name="instruction_sort_item_similar">Найдите такую же картинку</string>
+    <string name="instruction_extra_number">Найдите лишнее число</string>
+    <string name="instruction_extra_word">Найдите лишнее слово</string>
+    <string name="instruction_face_control">Найдите грустный смайлик</string>
+    <string name="instruction_stroop">Какого цвета текст?</string>
+    <string name="instruction_geo_switching">Ответьте на вопрос</string>
+    <string name="instruction_numbers_and_letters">Ответьте на вопрос</string>
+    <string name="instruction_airport_forward">Куда летит самолет?</string>
+    <string name="instruction_airport_backward">Откуда летит самолет?</string>
+    <string name="instruction_rotation">Таблицы одинаковые?</string>
+</resources>

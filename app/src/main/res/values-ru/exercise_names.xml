@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_extra_number">Лишнее число</string>
+    <string name="name_extra_word">Лишнее слово</string>
+    <string name="name_face_control">Фейсконтроль</string>
+    <string name="name_complex_sort">Сложная сортировка</string>
+    <string name="name_stroop">Задача Струпа</string>
+    <string name="name_geo_switching">Геометрические переключения</string>
+    <string name="name_numbers_and_letters">Буквы и цифры</string>
+    <string name="name_airport">Аэропорт</string>
+    <string name="name_rotation">Перевороты</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_extra_number">
+        Your task is to identify the number that is different
+        from all the others as quickly as possible.
+    </string>
+
+    <string name="description_extra_word">
+        Your task is to identify the word that is different
+        from all the others as quickly as possible.
+    </string>
+
+    <string name="description_face_control">
+        Your task is to identify the sad emoji as quickly as possible.
+    </string>
+
+    <string name="description_complex_sort">
+        Your task is to choose a shape that exactly matches
+        or completely does not match in color and shape with the proposed option.
+    </string>
+
+    <string name="description_stroop">
+        Your task is to choose the correct color of the word without paying attention to its name.
+    </string>
+
+    <string name="description_geo_switching">
+        Your task is to specify the property of the object located on the screen as quickly as possible
+    </string>
+
+    <string name="description_numbers_and_letters">
+        Your task is to specify the property of the object located on the screen as quickly as possible
+    </string>
+
+    <string name="description_airport">
+        Your task is to indicate where the blue plane is flying and where the red one is flying from.
+    </string>
+
+    <string name="description_rotation">
+        Your task is to compare two tables and indicate whether they are the same or not. Tables may be upside down.    </string>
+
+</resources>

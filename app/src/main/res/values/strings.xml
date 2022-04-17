@@ -1,3 +1,34 @@
 <resources>
-    <string name="app_name">Reaction</string>
+    <string name="app_name">Concentration &amp; Attention</string>
+
+    <string name="exercises">Exercises</string>
+    <string name="motivation_text">Practice daily and the result will not be long in coming</string>
+    <string name="start">Start</string>
+    <string name="result">Result</string>
+    <string name="correct">Correct answers:</string>
+    <string name="number_of_rounds">Total rounds:</string>
+    <string name="incorrect">Incorrect answers:</string>
+    <string name="to_menu">Back</string>
+    <string name="one_more_time">Try Again</string>
+    <string name="result_good">Excellent result! \n Shall we repeat?</string>
+    <string name="result_bad">Not bad, but you need to complete at least %1$d rounds to finish this level
+         and get more than %2$d percent correct answers. \n Will you try again?</string>
+    <string name="empty" />
+    <string name="good">Ok</string>
+    <string name="exercise_is_unavailable">Exercise is not available</string>
+    <string name="exercise_is_unavailable_explanation">Complete the previous exercise successfully at
+        least five times to gain access to this one.</string>
+    <string name="onboarding_text">
+        In this digital world, we are easily distracted.
+        Information is everywhere and we feel the need to
+        deal with increasing and multiple forms of information.
+        It drags on our time and our attention.
+        The inability to concentrate on the task at hand
+        is one of the maladies of our time — everyone wants to
+        know how to focus better, how to concentrate.
+        This application was design to help you improve
+        your concentration skill by doing  simple exercises
+</string>
+    <string name="about_app">About the application</string>
+    <string name="open_by_ad">Access by viewing ad</string>
 </resources>
